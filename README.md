@@ -1,2 +1,2 @@
-# this is my README file
-this is my first repository capstone
+# capstone practice using GitHub
+this is my first tutorial creating repository on GItHub
